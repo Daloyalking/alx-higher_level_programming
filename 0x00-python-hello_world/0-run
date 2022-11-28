@@ -1,1 +1,2 @@
-562
+#!/bin/bash
+python3 $PYFILE
