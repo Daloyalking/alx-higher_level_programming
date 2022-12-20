@@ -3,6 +3,11 @@
 """Define a class Square (based on 5-square.py)."""
 
 
+#!/usr/bin/python3
+
+"""Define a class Square (based on 5-square.py)."""
+
+
 class Square:
     """Represent a square."""
 
